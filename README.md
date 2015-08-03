@@ -1,5 +1,5 @@
 # An-Introduction-to-Interactive-Programming-in-Python
-Assignments that I worked on as part of the course "An Introduction to Interactive Programming in Python" offered by coursera.
+Assignments that I worked on as part of the course "An Introduction to Interactive Programming in Python" offered by coursera. (https://www.coursera.org/course/interactivepython1)
 
 
 Week 1: Rock-paper-scissors-lizard-Spock <br>
